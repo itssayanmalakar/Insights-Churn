@@ -1,4 +1,4 @@
-# 📉 D2C Customer Churn Prediction Engine
+# D2C Customer Churn Prediction Engine
 
 A comprehensive machine learning solution that predicts customer churn 30 days in advance, enabling proactive retention strategies for D2C businesses. The system identifies high-risk customers and generates targeted intervention recommendations with proven ROI.
 
